@@ -56,12 +56,6 @@ p{
     margin-bottom: 0;
     font-size: 30px;
 }
-.ktopovedal {
-    margin-top: 0px;
-    font-style: italic;
-    font-size: 20px;
-    color: #F38BA0;
-}
 
 .nepar {
     height: 50%; 
@@ -81,6 +75,12 @@ footer {
     color: #F38BA0;
     text-align: center;
     padding-top: 10px;
+}
+.ktopovedal {
+    margin-top: 0px;
+    font-style: italic;
+    font-size: 20px;
+    color: #F38BA0;
 }
 #koniec {
     margin-top: 10px;
